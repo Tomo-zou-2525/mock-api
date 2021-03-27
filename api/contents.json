@@ -17,6 +17,14 @@
       "title": "title - foo",
       "body": "body - bal",
       "author-id": 2
+    },
+    {
+      "id-1": "",
+      "id": 4
+    },
+    {
+      "id-1": "",
+      "id": 5
     }
   ]
 }
