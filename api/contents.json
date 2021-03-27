@@ -18,5 +18,19 @@
       "body": "body - bal",
       "author-id": 2
     }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "name": "tomoya"
+    },
+    {
+      "id": 2,
+      "name": "tomoko"
+    },
+    {
+      "id": 3,
+      "name": "tomomi"
+    }
   ]
 }
